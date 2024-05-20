@@ -1,0 +1,31 @@
+{
+  "name": "swiggyproject",
+  "version": "1.0.0",
+  "description": "Sample Restaurant app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goelmanish/swiggy-app.git"
+  },
+  "keywords": [
+    "Restaurant",
+    "app",
+    "food"
+  ],
+  "author": "Manish Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goelmanish/swiggy-app/issues"
+  },
+  "homepage": "https://github.com/goelmanish/swiggy-app#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
